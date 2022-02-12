@@ -86,8 +86,6 @@ if __name__ == '__main__':
 ![robo](./img/output1.jpeg)
 ![robo](./img/output2.jpeg)
 ![robo](./img/output3.jpeg)
-![robo](./img/output4.jpeg)
-![robo](./img/output5.jpeg)
 
 
 <br/>
@@ -99,7 +97,7 @@ if __name__ == '__main__':
 
 Upload your video in Youtube and paste your video-id here
 
-![Robo Video](https://youtu.be/CMOWk-B4TQg)
+[![Robo Video](https://youtu.be/CMOWk-B4TQg)](https://youtu.be/CMOWk-B4TQg)
 
 <br/>
 <br/>
