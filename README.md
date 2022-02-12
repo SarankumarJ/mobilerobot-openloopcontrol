@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
 Upload your video in Youtube and paste your video-id here
 
-[![Robo Video](./img/output1.jpeg)](https://youtu.be/CMOWk-B4TQg)
+[![Robo Video](Clik Here)](https://youtu.be/CMOWk-B4TQg)
 
 <br/>
 <br/>
